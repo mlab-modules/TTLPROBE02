@@ -4,17 +4,17 @@ github_repo: TTLPROBE02
 github_url: https://github.com/mlab-modules/TTLPROBE02
 homepage: false
 images:
-- doc/img/TTLPROBE02A_small.jpg
 - doc/img/B.jpg
 - doc/img/A.jpg
+- doc/img/TTLPROBE02A_small.jpg
 - doc/html/Pictures/image002.jpg
 - doc/html/Pictures/image007.jpg
 - doc/img/TTLPROBE02A_QRcode.png
-- doc/html/Pictures/image005.gif
-- doc/html/Pictures/image003.gif
-- doc/html/Pictures/image001.gif
-- doc/html/Pictures/image004.gif
 - doc/html/Pictures/image006.gif
+- doc/html/Pictures/image001.gif
+- doc/html/Pictures/image003.gif
+- doc/html/Pictures/image005.gif
+- doc/html/Pictures/image004.gif
 mark: 50
 tags: []
 title: TTLPROBE02
